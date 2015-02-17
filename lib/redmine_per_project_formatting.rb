@@ -1,5 +1,6 @@
 require 'redmine_per_project_formatting/project_listener'
 
+# Basic module for plugin (require files for patching)
 module RedminePerProjectFormatting
   def self.apply_patch
     require 'redmine_per_project_formatting/application_helper_patch'
