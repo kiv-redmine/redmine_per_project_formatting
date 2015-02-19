@@ -1,7 +1,7 @@
 Redmine per project formatting plugin
 =======================
 
-[![Build Status](https://travis-ci.org/kiv-redmine/redmine_per_project_formatting.svg?branch=testing)](https://travis-ci.org/kiv-redmine/redmine_per_project_formatting) [![Inline docs](http://inch-ci.org/github/kiv-redmine/redmine_per_project_formatting.svg?branch=master)](http://inch-ci.org/github/kiv-redmine/redmine_per_project_formatting) [![Coverage Status](https://coveralls.io/repos/kiv-redmine/redmine_per_project_formatting/badge.svg)](https://coveralls.io/r/kiv-redmine/redmine_per_project_formatting)
+[![Build Status](https://travis-ci.org/kiv-redmine/redmine_per_project_formatting.svg?branch=testing)](https://travis-ci.org/kiv-redmine/redmine_per_project_formatting) [![Inline docs](http://inch-ci.org/github/kiv-redmine/redmine_per_project_formatting.svg?branch=master)](http://inch-ci.org/github/kiv-redmine/redmine_per_project_formatting)
 
 This plugin enables text formatting settings per project.
 It also be able to change text format per project module. (e.g. issue_tracking, wiki, news, board...)
