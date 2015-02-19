@@ -96,6 +96,7 @@ run_install() {
 
   # install gems
   mkdir -p vendor/bundle
+  rm Gemfile.lock
   bundle install --path vendor/bundle
 
   bundle exec rake db:migrate $TRACE
