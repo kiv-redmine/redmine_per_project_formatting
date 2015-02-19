@@ -1,3 +1,3 @@
 group :development, :test do
-  gem 'coveralls'
+  gem 'coveralls', require: false
 end
